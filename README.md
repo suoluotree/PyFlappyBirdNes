@@ -9,7 +9,7 @@ https://github.com/yenchenlin/DeepLearningFlappyBird， python实现的DQN，但
 cd scripts && python bird_flappy.py
 
 # 依赖的工具和包
-python2.7
+python2.7<br>
 pygame: 动画渲染
 
 # 说明
