@@ -8,8 +8,11 @@ https://github.com/yenchenlin/DeepLearningFlappyBird， python实现的DQN，但
 # 运行方式
 cd scripts && python bird_flappy.py
 
-# 依赖的包
+# 依赖的工具和包
+python2.7
 pygame: 动画渲染
 
 # 说明
-20180719：目前这个版本的鸟仍然会在某种状态下死亡，经过观察怀疑是状态没有捕获完全导致，仍然需要进一步迭代
+## 20180719：
+1、目前这个版本的鸟仍然会在某种状态下死亡，经过观察怀疑是状态没有捕获完全导致，仍然需要进一步迭代
+2、由于pygame运用不是很熟练，所以pipe之间不是等间距，这样反倒无意之间增加了游戏的难度
